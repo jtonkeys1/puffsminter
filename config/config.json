@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x870c0238e8779Fe9f568Dd1Cc907FA449DBe8552",
+  "SCAN_LINK": "",
+  "NETWORK": {
+    "NAME": "Harmony",
+    "SYMBOL": "ONE",
+    "ID": 1666600000
+  },
+  "NFT_NAME": "PUFF",
+  "SYMBOL": "PUFF",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 222000000000000000000,
+  "DISPLAY_COST": 222,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "The-Marketplace",
+  "MARKETPLACE_LINK": "https://the-marketplace.one",
+  "SHOW_BACKGROUND": true
+}
